@@ -84,3 +84,6 @@ Export to Excel/CSV
 Authentication (User login/signup)
 
 Responsive frontend with Bootstrap
+
+Expense Tracker
+<img width="1136" height="639" alt="1" src="https://github.com/user-attachments/assets/71ddd256-3940-4129-894d-503eb4c38fb4" />
