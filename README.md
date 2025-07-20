@@ -118,26 +118,28 @@ Profile Edit Page
 
 <img width="1121" height="630" alt="7" src="https://github.com/user-attachments/assets/6ae3bf9b-f873-4dd0-b305-5df5204fd43c" />
 
+Monthly Expense Page 
+
 
 <img width="1162" height="654" alt="8" src="https://github.com/user-attachments/assets/f5a21804-b7c5-45c3-a89d-6d4e2d9a6db6" />
 
-Monthly Expense Page 
+Saving Alert Page 
 
 <img width="1184" height="666" alt="9" src="https://github.com/user-attachments/assets/49c16473-826f-4dd0-a3fd-0bb52d2db320" />
 
-Saving Alert Page 
+Savings and Income Alert Page 
 
 <img width="1183" height="665" alt="10" src="https://github.com/user-attachments/assets/bfafa6a6-e169-459e-a8c4-35d2bdac95e5" />
 
-Savings and Income Alert Page 
+Yearly Expense Page 
 
 <img width="1215" height="684" alt="11" src="https://github.com/user-attachments/assets/89ac3d7a-a110-43ca-a5ab-e125924494e9" />
 
-Yearly Expense Page 
+History
 
 <img width="1162" height="654" alt="12" src="https://github.com/user-attachments/assets/06bc3fba-6227-4c14-a05d-acf86e58f84e" />
 
-History
+
 
 <img width="1184" height="666" alt="13" src="https://github.com/user-attachments/assets/fd8d82fb-d239-4163-957c-3aa0aac7e3fc" />
 
