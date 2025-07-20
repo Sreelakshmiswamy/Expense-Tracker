@@ -98,27 +98,27 @@ Dashboard Page
 
 <img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/85c89c24-b207-4278-9f9f-44bfde0c7d6e" />
 
-Add money Page 
+Add Income Page 
 
 <img width="1122" height="630" alt="3" src="https://github.com/user-attachments/assets/356e4d3b-946a-42be-93bf-99f6294e2975" />
 
-Add Income Page 
+Add Expense Page 
 
 <img width="1146" height="644" alt="4" src="https://github.com/user-attachments/assets/44fb4fa4-730b-43fa-a3a9-883941fd7dfe" />
 
-Add Expense Page 
+Expense and Income Records Page
 
 <img width="1227" height="690" alt="5" src="https://github.com/user-attachments/assets/217a8ae2-e966-4732-8daa-83667752cd24" />
 
-Expense and Income Records Page 
+ Profile Page 
 
 <img width="1153" height="648" alt="6" src="https://github.com/user-attachments/assets/8505b9de-e83e-45ff-82f2-fc7fbd430207" />
 
-Profile Page 
+Profile Edit Page 
 
 <img width="1121" height="630" alt="7" src="https://github.com/user-attachments/assets/6ae3bf9b-f873-4dd0-b305-5df5204fd43c" />
 
-Profile Edit Page 
+
 <img width="1162" height="654" alt="8" src="https://github.com/user-attachments/assets/f5a21804-b7c5-45c3-a89d-6d4e2d9a6db6" />
 
 Monthly Expense Page 
