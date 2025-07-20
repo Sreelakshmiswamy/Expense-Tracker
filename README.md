@@ -71,6 +71,7 @@ python expense.py runserver
 Visit http://127.0.0.1:8000 in your browser.
 
 or py expense.py runserver
+
 🔧 Customization Ideas
 You can extend the project with:
 
