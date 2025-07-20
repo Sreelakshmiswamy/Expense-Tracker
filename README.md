@@ -91,6 +91,8 @@ User login Page
 User signup Page 
 <img width="1133" height="637" alt="2" src="https://github.com/user-attachments/assets/30d54658-089b-45dd-a742-787346878442" />
 Dashboard Page 
+<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/85c89c24-b207-4278-9f9f-44bfde0c7d6e" />
+
 <img width="1122" height="630" alt="3" src="https://github.com/user-attachments/assets/356e4d3b-946a-42be-93bf-99f6294e2975" />
 Add money Page 
 <img width="1146" height="644" alt="4" src="https://github.com/user-attachments/assets/44fb4fa4-730b-43fa-a3a9-883941fd7dfe" />
