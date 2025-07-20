@@ -135,11 +135,11 @@ Yearly Expense Page
 
 <img width="1215" height="684" alt="11" src="https://github.com/user-attachments/assets/89ac3d7a-a110-43ca-a5ab-e125924494e9" />
 
-History
+Savings
 
 <img width="1162" height="654" alt="12" src="https://github.com/user-attachments/assets/06bc3fba-6227-4c14-a05d-acf86e58f84e" />
 
-
+History
 
 <img width="1184" height="666" alt="13" src="https://github.com/user-attachments/assets/fd8d82fb-d239-4163-957c-3aa0aac7e3fc" />
 
