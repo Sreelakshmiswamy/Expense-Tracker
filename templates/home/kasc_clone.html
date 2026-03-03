@@ -1,0 +1,125 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kongu Arts and Science College (KASC)</title>
+  <link rel="stylesheet" href="{% static 'kasc.css' %}" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Kongu Arts and Science College</div>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">Trust & Governance</a>
+      <a href="#departments">Departments</a>
+      <a href="#academics">Academics</a>
+      <a href="#facilities">Facilities</a>
+      <a href="#support">Student Support</a>
+      <a href="#research">Research & Quality</a>
+      <a href="#links">External Links</a>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>Welcome to KASC</h1>
+    <p>Official-style information portal with academics, facilities, support cells, and institutional policies.</p>
+  </section>
+
+  <main class="content-wrap">
+    <section id="about" class="card">
+      <h2>Trust & Governance</h2>
+      <ul>
+        <li>Trust</li><li>Trustees</li><li>Governing Council</li><li>Academic Council</li>
+      </ul>
+    </section>
+
+    <section id="departments" class="card">
+      <h2>Departments</h2>
+      <p>Tamil, English, Hindi, UG & PG Computer Science, BCA, CT & IT, Mathematics, Commerce (BI, CA, PA), MBA, BBA, BBA CA, Physics, Psychology, Biochemistry, Biotechnology, Social Work (MSW), and Physical Education.</p>
+    </section>
+
+    <section id="academics" class="card two-col">
+      <div>
+        <h2>Academics & Examination</h2>
+        <ul>
+          <li>Controller of Examinations</li>
+          <li>Examination Section</li>
+          <li>Curriculum</li>
+          <li>Outcome Based Education (OBE)</li>
+          <li>Academic Syllabi</li>
+          <li>Autonomous Regulations and Policies</li>
+          <li>Rules & Regulations</li>
+          <li>Programmes Offered</li>
+          <li>Value Added Courses</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Policies & Documents</h2>
+        <ul>
+          <li>Perspective Plan</li>
+          <li>Student Grievance Redressal Committee</li>
+          <li>Fee Refund Policy</li>
+          <li>SEDGS & AGS</li>
+          <li>Unnat Bharat Abhiyan</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="facilities" class="card">
+      <h2>Facilities</h2>
+      <ul>
+        <li>Library</li>
+        <li>Computer Centre</li>
+        <li>Media Centre</li>
+        <li>Boys Hostel</li>
+        <li>Girls Hostel</li>
+        <li>Transport</li>
+      </ul>
+    </section>
+
+    <section id="support" class="card">
+      <h2>Student Support & Cells</h2>
+      <ul>
+        <li>NSS, NCC, YRC, RRC</li>
+        <li>Women Development Cell</li>
+        <li>SC/ST Cell</li>
+        <li>ICC, Anti-ragging, Grievance Redressal</li>
+        <li>Career Guidance & Placement Cell</li>
+        <li>Entrepreneurship Development Cell</li>
+        <li>Innovation & IPR Cell</li>
+        <li>Industry Institute Collaboration Cell</li>
+      </ul>
+    </section>
+
+    <section id="research" class="card">
+      <h2>Research & Quality</h2>
+      <ul>
+        <li>Research Cell</li><li>IQAC</li><li>NIRF</li><li>DBT</li><li>AICTE</li><li>MOUs</li>
+      </ul>
+    </section>
+
+    <section id="links" class="card">
+      <h2>Government & External Links</h2>
+      <ul>
+        <li>UGC Grievance</li><li>Cyber Crime Portal</li><li>SWAYAM</li><li>SWAYAM PRABHA</li><li>e-PG Pathshala</li><li>Vidya Lakshmi</li><li>RTI</li>
+      </ul>
+    </section>
+  </main>
+
+  <button id="chatToggle" class="chat-toggle">Ask KASC Assistant</button>
+  <section id="chatWidget" class="chat-widget hidden" aria-label="KASC chatbot">
+    <header>EduBot – KASC Virtual Assistant</header>
+    <div id="chatLog" class="chat-log">
+      <div class="msg bot">Hello! I can answer questions based on official KASC website sections. Ask about courses, departments, hostels, grievance process, facilities, councils, exams, research, and policies.</div>
+    </div>
+    <form id="chatForm" class="chat-form">
+      <input id="chatInput" type="text" placeholder="Type your KASC question..." autocomplete="off" />
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <script src="{% static 'javascript/kasc-chatbot.js' %}"></script>
+</body>
+</html>

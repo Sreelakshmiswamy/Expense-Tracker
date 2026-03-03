@@ -12,10 +12,8 @@ import datetime
 from django.utils import timezone
 # Create your views here.
 def home(request):
-    if request.session.has_key('is_logged'):
-        return redirect('/index')
-    return render(request,'home/login.html')
-   # return HttpResponse('This is home')
+    return render(request, 'home/kasc_clone.html')
+
 def index(request):
     if request.session.has_key('is_logged'):
         user_id = request.session["user_id"]
